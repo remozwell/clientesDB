@@ -1,11 +1,25 @@
 {
-  "posts": [
+  "clientes": [
     {
       "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "nombre": "jose",
+      "apellido": "urena",
+      "edad": 26,
+      "direcciones": ["jose peguero", "cancino 2do", "santo domingo"]
+    },
+    {
+      "id": 2,
+      "nombre": "manuel",
+      "apellido": "peres",
+      "edad": 22,
+      "direcciones": ["duarte", "santo domingo este"]
+    },
+    {
+      "id": 3,
+      "nombre": "erick",
+      "apellido": "mora",
+      "edad": 23,
+      "direcciones": ["sabana larga", "bella vista", "santo domingo norte"]
+    },
+  ]
 }
